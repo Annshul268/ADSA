@@ -1,7 +1,7 @@
-# 1. Two Sum
+## 1. Two Sum
 https://leetcode.com/submissions/detail/1670769567/
 
-#Code
+## Code
 ```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
